@@ -33,7 +33,7 @@
     text-decoration: underline;
 }
 .zo-img{
-    background-image: url('/zometo.png');
+    background-image: url('./zometo.png');
     height: 57px;
     width: 216px;
     background-size: 219px;
@@ -127,7 +127,7 @@ header{
 }
 
 .he1{
-    background-image: url('/s1.png');
+    background-image: url('./s1.png');
     height: 100px;
     width: 110px;
     background-size: 110px;
@@ -136,7 +136,7 @@ header{
    
 }
 .he3{
-    background-image: url('/s2.png');
+    background-image: url('./s2.png');
     height: 100px;
     width: 110px;
     background-size: 110px;
